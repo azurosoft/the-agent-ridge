@@ -12,7 +12,7 @@ Cloud “AI pentest” products often mean:
 
 AgentRidge flips that:
 
-1. **execution stays on your Mac**,  
+1. **execution stays on your machine**,  
 2. **one Pro license** — no API consumption bill from Azuro,  
 3. **every tool_call is visible** in Mission Control.
 
@@ -32,4 +32,4 @@ Security consultancies, internal red teams, and auditors who already work under 
 
 ## Next step
 
-Download the latest macOS build from [Releases](https://github.com/azurosoft/the-agent-ridge/releases), create your account on [join-ridge.com](https://www.join-ridge.com/login/?mode=signup), and open Mission Control.
+Download the latest macOS or Windows build from [Releases](https://github.com/azurosoft/the-agent-ridge/releases), create your account on [join-ridge.com](https://www.join-ridge.com/login/?mode=signup), and open Mission Control.

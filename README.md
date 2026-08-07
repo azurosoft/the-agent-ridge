@@ -1,6 +1,6 @@
 # AgentRidge
 
-> **Authorized targets only.** AgentRidge is Mission Control for autonomous pentests that run on *your* Mac — not another cloud black box.
+> **Authorized targets only.** AgentRidge is Mission Control for autonomous pentests that run on *your* Mac or Windows PC — not another cloud black box.
 
 ## The hook
 
@@ -23,14 +23,14 @@ One annual license. Unlimited model usage. Written authorization required.
 
 - Site: [www.join-ridge.com](https://www.join-ridge.com/)  
 - Free auditor trial → [create an account](https://www.join-ridge.com/login/?mode=signup)  
-- Download macOS builds in **[Releases](https://github.com/azurosoft/the-agent-ridge/releases)**
+- Download macOS & Windows builds in **[Releases](https://github.com/azurosoft/the-agent-ridge/releases)**
 
 ## Specs (minimum)
 
 | | |
 |---|---|
-| OS | macOS 13+ |
-| Arch | Apple Silicon (arm64) or Intel (x64) |
+| OS | macOS 13+ or Windows 10/11 |
+| Arch | Apple Silicon / Intel (macOS) · x64 (Windows) |
 | RAM | 16 GB recommended |
 | Disk | ~25 GB free for first-run runtime |
 
